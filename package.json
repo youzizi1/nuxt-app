@@ -10,8 +10,13 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.13.6",
+    "@nuxtjs/tailwindcss": "^4.2.1",
+    "@nuxtjs/toast": "^3.3.1",
+    "autoprefixer": "^9.8.6",
     "core-js": "^3.15.1",
-    "nuxt": "^2.15.7"
+    "nuxt": "^2.15.7",
+    "postcss": "^7.0.36",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.7"
   },
   "devDependencies": {
     "eslint-config-prettier": "^8.3.0",
