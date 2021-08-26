@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /list/
+Allow: *
+
+Sitemap: https://xxx.xxx.xxx/sitemap.xml
